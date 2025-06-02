@@ -21,3 +21,7 @@ class lia :public seseorang{
         cout << "Pesan dari lia" << endl;
     }
 };
+
+int main(){
+    
+}
